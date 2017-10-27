@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: space-around;
+}
+
+img{
+    width: 30%;
+    margin-top: -50px;
+}
+
+#letras{
+    width: 20%;
+    height: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: space-around;
+}
+
+#comenzar{
+    padding: 20px;
+    margin-top: 30px;
+}
